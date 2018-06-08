@@ -1,3 +1,15 @@
+#jamming
+
+## Overview
+
+This was originally a codecademy project that has slowly been customized over time.  The heart of the react application is the Spotify API, which is used to retrieve and add playlists to the account.  
+
+
+### Future enhancements
+1. Deploy to Heroku
+2. Create a process that identifies songs similar to those in the playlist without duplicating titles. 
+3. Allowing the user to choose playlist via dropdown.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
